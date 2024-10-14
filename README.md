@@ -6,7 +6,7 @@
   ## Tech-stack
 
 # About the Author
-  ## Picture
+  ## Gwapa ang naa sa picture
   ## [link to soc-med](https://www.facebook.com/hazelanne.barcelona.50?mibextid=LQQJ4d)
 
 # Disclaimer
