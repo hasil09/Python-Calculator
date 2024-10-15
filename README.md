@@ -12,7 +12,7 @@
   You will access the recovery utility this way.
   Your computer needs access to the internet if you do not have a local copy of macOS.[2]
 
-  ## Press and hold `⌘ Cmd+R` right after you press the power button.
+  ## 3. Press and hold `⌘ Cmd+R` right after you press the power button.
   This key combination tells your Mac to reinstall the same version of macOS that was already installed. If you're hoping for a different version, check out these alternatives:
   1. To upgrade your macOS to the most current OS that is compatible with your Mac, press ⌥ Opt+⌘ Cmd+R. For example, a Mac from early 2012 will not be compatible with macOS 10.15, Catalina.
   2. On an Intel-based Mac, to install the macOS your Mac came with, no matter how out-dated, press ⇧ Shift+⌥ Opt+⌘ Cmd+R. If you didn't have 10.12.14, Sierra, this key combination will not work.
