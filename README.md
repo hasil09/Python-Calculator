@@ -1,7 +1,7 @@
 # Installation
   ## Windows
   
-  ## Mac-OS
+  # Mac-OS
   wikiHow teaches you how to do a clean install of macOS on your Mac using the recovery utility. Make sure your Mac is connected to a power source and has a steady connection to the internet during the install process.
   
   ## **1. Determine if you're using a Mac with Apple silicon or Intel processor.**
