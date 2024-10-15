@@ -44,12 +44,18 @@
   # Windows
 
   # Mac-OS 
-  ## For more information,see https://www.wikihow.com/Install-macOS
+  ## For more information, see https://www.wikihow.com/Install-macOS
     
   
 
 # About the Author
-  ## 
+  # Windows 
+
+  # Mac-OS
+  ## Darlene Antonelli, MA
+  ###**Education**: Rowan University, BA & MA in Writing with a focus on writing in the workplace.
+  ## [LINK TO SOC-MED]
+  
   ## [link to soc-med](https://www.facebook.com/hazelanne.barcelona.50?mibextid=LQQJ4d)
 
 # Disclaimer
