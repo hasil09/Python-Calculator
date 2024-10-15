@@ -44,7 +44,7 @@
   # Windows
 
   # Mac-OS 
-  ##[For more information,see] (https://www.wikihow.com/Install-macOS)
+  ## For more information,see (https://www.wikihow.com/Install-macOS)
     
   
 
