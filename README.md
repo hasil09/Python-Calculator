@@ -56,10 +56,7 @@
   ###**Education**: Rowan University, BA & MA in Writing with a focus on writing in the workplace.
   ## [LINK TO SOC-MED](https://www.wikihow.com/Author/Darlene-Antonelli-MA)
   
-  ## [link to soc-med](https://www.facebook.com/hazelanne.barcelona.50?mibextid=LQQJ4d)
 
 # Disclaimer
-  **Hasil gwapa**
-  _CuTe Si HaSiL_
-
+  
   
